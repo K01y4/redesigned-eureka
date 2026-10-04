@@ -1,0 +1,2 @@
+Git workflow retry after credential refresh.
+Date: 2026-10-04
